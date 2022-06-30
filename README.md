@@ -26,6 +26,10 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Explain the differences between `.map`, `.reduce` and `.filter` and describe a use case for each. 
 
+.map creates a new array . You should not use it if you will not be using the array it returns and if you are not returnung a value from the callback. 
+.reduce is 
+.filter is 
+
 2. Explain the difference between a callback and a higher order function.
 
 3. Explain what a closure is.
